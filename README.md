@@ -1,3 +1,3 @@
 # Women-Affair-Project
 
-https://women-affairs.herokuapp.com/
+https://woman-affair-pred.herokuapp.com/
